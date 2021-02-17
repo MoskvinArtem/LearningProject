@@ -22,12 +22,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        WMap.createMap("Главная Карта");
-//        WMap.createMap("Дополнительная Карта");
-//        WMap.printKeys();
-//        System.out.println(WMap.getMap(1).getName());
-
-
 
 //        String path = "C:/Users/Артём/Desktop/JAVATEXT.txt";
 //        String file = ReadFromFile(path);
